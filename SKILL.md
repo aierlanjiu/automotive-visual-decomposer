@@ -35,7 +35,7 @@ Produce a concise reasoning summary, not hidden chain-of-thought:
 
 ### 3. Style Selection
 
-Read `references/style-protocols.md` and apply only the selected style. Do not mix multiple primary styles unless the user explicitly asks.
+Read `references/style-protocols.md` and apply only the selected style. The style file contains the full sanitized prompt architecture, not a short summary. Do not mix multiple primary styles unless the user explicitly asks.
 
 Use style names exactly:
 
@@ -67,7 +67,7 @@ Return the final answer in this structure:
 [one complete image prompt]
 ```
 
-The final prompt should be English for rendering control, while exact visible Chinese text should stay in Chinese inside quotes. Keep visible text explicit and short.
+The final prompt should be English for rendering control, while exact visible Chinese text should stay in Chinese inside quotes. Use the full selected style structure: global aesthetic, header, core mechanisms, axiom/data block, deep deconstruction, verification zone, footer, and negative constraints. Keep visible text explicit and short, but do not collapse the prompt into a brief 5-7 line summary.
 
 ### 5. Image Engine Policy
 
@@ -78,14 +78,15 @@ Prefer this order:
 3. In Antigravity, if its image engine is available and configured, use it with the same final prompt.
 4. If no rendering engine is available, stop at the final prompt and clearly say prompt-only was delivered.
 
-Do not hardcode API keys, proxy addresses, cookies, or local account details. Respect the current environment.
+Do not hardcode API keys, proxy addresses, cookies, email addresses, billing details, or local account paths. Respect the current environment.
 
 ## Rules
 
 - Default language for conversation and reasoning summary is Simplified Chinese.
 - Do not write article copy, titles, publishing steps, or social media captions unless the user asks.
 - Do not invent vehicle specs, standards, dates, prices, certifications, logos, QR codes, or regulatory numbers.
-- Strip internal watermarks, internal brand stamps, and private project signatures from open-source prompts unless the user explicitly requests branding.
+- Preserve the public personal-IP signature `雪沐江南 · VISUAL ARCHITECT` / `Xuemu_Lab` when producing open-source demo prompts and images. Strip only private account details, local paths, cookies, keys, and unapproved third-party logos.
 - Keep final image prompts clean. Do not put Markdown section markers, pseudo-layout code, or comments into the prompt body.
+- Preserve the full source prompt logic after sanitization: analysis log, adaptive aspect ratio, visual literalization, six-section composition, and renderer-specific negative constraints.
 - Prefer fewer larger labels over many tiny annotations.
 - Include negative constraints for text quality, fake marks, clutter, broken geometry, and unreadable Chinese.

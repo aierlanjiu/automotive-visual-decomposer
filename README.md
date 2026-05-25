@@ -20,7 +20,7 @@ It returns:
 
 - Selection path
 - Visual reasoning summary
-- Final English rendering prompt with explicit short Chinese visible labels
+- Full English rendering prompt with explicit Chinese visible labels and the public creator mark
 
 ## Style System
 
@@ -71,11 +71,11 @@ Use automotive-visual-decomposer. Visualize 线控转向.
 2. Render with AI Studio / Nano Banana Pro 4K for production output.
 3. In Codex or Antigravity, use the internal image engine only when the environment has an available image renderer and you want direct drawing inside the agent.
 
-The prompts avoid private signatures, fake logos, QR codes, fake standard numbers, and unreadable microtext. For current model specs, prices, regulations, or launch claims, verify facts before rendering.
+The prompts keep the public personal-IP mark `雪沐江南 · VISUAL ARCHITECT` / `Xuemu_Lab`, while avoiding emails, account details, local paths, cookies, API keys, fake logos, QR codes, fake standard numbers, and unreadable microtext. For current model specs, prices, regulations, or launch claims, verify facts before rendering.
 
 ## Repository Hygiene
 
-This open-source package contains only reusable skill instructions, style protocols, example prompts, and generated demo assets. It does not include account details, cookies, API keys, local machine paths, or private publishing workflow data.
+This open-source package contains reusable skill instructions, full sanitized style protocols, example prompts, generated demo assets, and the public creator signature. It does not include emails, account details, cookies, API keys, local machine paths, or private publishing workflow data.
 
 ## License
 
