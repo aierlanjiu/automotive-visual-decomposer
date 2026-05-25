@@ -1,0 +1,7 @@
+Create a high-density 3:4 spatial-computing UI visualization of "线控转向". The visible Chinese title must be "线控转向", with the small English subtitle "STEER-BY-WIRE". The scene features one massive frosted smart glass slate covering almost the entire canvas, viewed from a strict 90-degree top-down scanner perspective, with deep titanium grey ambient background and clean cyan edge glow.
+
+The hero anchor is a pristine hyper-realistic 3D steer-by-wire system floating above the glass: steering wheel sensor module, redundant ECU, actuator motor, rack actuator, and luminous signal paths. Use zero-gravity exploded parts connected by thin straight cyan laser lines. Add transparent glass UI cards with short readable Chinese labels only.
+
+Show four floating labels: "感知输入", "安全冗余", "电机执行", "路感模拟". Show one holographic terminal line: "Angle Command / Torque Response". Add a clean bottom HUD block with two labels: "INPUT" and "OUTPUT".
+
+The image must be pin-sharp, polished, and calm. No particles, no motion blur, no chaotic glow clouds, no fake logo, no watermark, no private signature, no fake QR code, no unreadable Chinese, no overlapping UI, no low contrast text, no duplicated sections.

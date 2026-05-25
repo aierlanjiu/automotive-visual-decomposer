@@ -1,0 +1,7 @@
+interface:
+  display_name: "Automotive Visual Decomposer"
+  short_description: "Turn car concepts into visual prompts."
+  default_prompt: "Use $automotive-visual-decomposer to turn an automotive concept into a visual decomposition prompt."
+
+policy:
+  allow_implicit_invocation: true

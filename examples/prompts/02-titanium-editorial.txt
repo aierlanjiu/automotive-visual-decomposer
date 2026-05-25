@@ -1,0 +1,7 @@
+Create a high-end 3:4 automotive engineering magazine spread about "线控转向". The visible Chinese title must be "线控转向", with a small Prussian Blue English subtitle "STEER-BY-WIRE". The image is a full-frame off-white technical paper layout with a clean Swiss grid, charcoal typography, Prussian Blue technical ink, and a hyper-realistic silver steering-by-wire module casting crisp hard sunlight shadows.
+
+The hero object is an elegant exploded arrangement of a steering wheel sensor module, redundant ECU, electric motor actuator, steering rack actuator, and paired safety wiring. The composition should feel like a premium automotive design manual, not a dense textbook. Use refined editorial spacing, clean callout lines, and quiet high-end industrial photography.
+
+Include four short labels only: "输入感知", "电子冗余", "电机执行", "路感反馈". Include one small formula/data line: "Command Signal -> Actuator Response". Include a compact bottom verification panel with a minimal line chart labeled "Angle" and "Torque".
+
+Text must be crisp, large, and readable on mobile. Do not add paragraphs of tiny text. No logo, no watermark, no private signature, no fake barcode, no fake QR code, no fake certification seal, no fake dates, no fake standards, no overlapping labels, no malformed Chinese, no duplicated sections.

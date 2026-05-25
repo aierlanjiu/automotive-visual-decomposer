@@ -1,0 +1,7 @@
+Create a high-impact 3:4 cyber-industrial design spread about "线控转向". The visible Chinese title must be "线控转向", with the English subtitle "STEER-BY-WIRE" in acid green monospace type. The background is holographic silver foil with sharp high-contrast studio strobe lighting, chrome reflections, acid green vector UI lines, and black inverted section bars.
+
+The hero anchor is a chrome-plated steer-by-wire electronic chassis module: steering input sensor, redundant control computer, motor actuator, rack actuator, and glowing digital wiring paths. Use a precise top-down flat lay composition with zero distortion. The visual should feel like a futuristic automotive OS hardware teardown, not a generic sci-fi poster.
+
+Add four short neon mechanism labels: "输入", "计算", "冗余", "执行". Add one black error-message style block with crisp green text: "SIGNAL OK" and "FALLBACK ACTIVE". Add a bottom verification graphic with right-angled circuit traces connecting two explicit labels: "DRIVER" and "WHEELS".
+
+Keep all text readable and correctly spelled. No fake QR code, no fake app screen, no private signature, no brand logo, no unreadable glitch text, no random symbols, no overlapping text, no duplicated titles, no malformed Chinese, no cluttered microtext, no warm vintage paper.

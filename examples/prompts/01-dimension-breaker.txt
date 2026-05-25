@@ -1,0 +1,7 @@
+Create a high-impact 3:4 industrial design spread about "线控转向". The visible Chinese title must be "线控转向", with a small English subtitle "STEER-BY-WIRE". The scene uses a strict 90-degree top-down flat lay composition: a matte white engineering paper sheet is physically torn open by a heavy metallic steering actuator module and electronic control unit, revealing dark carbon fiber and brushed metal beneath the paper.
+
+The hero anchor is a hyper-realistic steer-by-wire assembly: steering wheel module, torque sensor, redundant control ECU, motor actuator, rack actuator, and dual wiring harness. The machinery should feel heavy enough to wrinkle and depress the paper surface. Use hard studio shadows, industrial orange warning tabs, graphite metal, white paper, and small red safety accents.
+
+Show three short readable mechanism labels printed on the paper: "方向输入", "冗余控制", "执行转向". Add one compact dark data block with the formula text "Angle Command -> Motor Torque" and the safety label "Fail-safe redundancy". Add a clean verification chart at the bottom with two labeled nodes: "INPUT" and "ACTUATOR".
+
+Keep the layout premium, editorial, and readable. Use crisp Simplified Chinese typography, generous spacing, clear labels, and no tiny paragraphs. No logo, no watermark, no private signature, no fake QR code, no fake certification number, no fake standard code, no random brand mark, no messy flowchart, no unreadable Chinese, no duplicated text, no malformed letters, no cluttered microtext.

@@ -1,0 +1,7 @@
+Create a precise 3:4 engineering education visualization of "线控转向". The visible Chinese title must be "线控转向", with a small English subtitle "STEER-BY-WIRE". The background is a clean deep matte dark-slate blackboard with faint 5mm white chalk grid lines and a realistic steel steer-by-wire actuator module floating slightly above the board.
+
+The layout should look like a premium automotive engineering lecture board: chalk schematics, one realistic metal component, clean formula area, and readable Chinese annotations. The hero object includes steering input sensor, ECU, motor actuator, rack actuator, and redundant wiring. Use chalk white lines, small red chalk highlights, and restrained chrome material.
+
+Add four chalk labels: "方向输入", "信号计算", "冗余保护", "执行转向". Add one formula line: "Steering Angle -> Motor Torque". Add a bottom chalk validation graph with X-axis labeled "Angle" and Y-axis labeled "Torque", plus two large readable markers "Input" and "Output".
+
+Keep the board clean and readable. No proprietary stamp, no private signature, no fake standard code, no fake QR code, no dense 3x3 data table, no chalk dust clouds, no illegible handwriting, no overlapping labels, no malformed Chinese, no random symbols, no duplicated text.
